@@ -3,6 +3,7 @@ package br.com.theusmm.screensound.principal;
 import br.com.theusmm.screensound.model.Artista;
 import br.com.theusmm.screensound.model.Musica;
 import br.com.theusmm.screensound.model.TipoArtista;
+import br.com.theusmm.screensound.repository.ArtistaRepository;
 import br.com.theusmm.screensound.service.ConsultaChatGPT;
 
 import java.util.List;

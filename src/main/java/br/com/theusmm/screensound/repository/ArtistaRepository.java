@@ -1,4 +1,4 @@
-package br.com.theusmm.screensound.principal;
+package br.com.theusmm.screensound.repository;
 
 import br.com.theusmm.screensound.model.Artista;
 import br.com.theusmm.screensound.model.Musica;

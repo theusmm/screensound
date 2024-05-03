@@ -1,6 +1,6 @@
 package br.com.theusmm.screensound;
 
-import br.com.theusmm.screensound.principal.ArtistaRepository;
+import br.com.theusmm.screensound.repository.ArtistaRepository;
 import br.com.theusmm.screensound.principal.Principal;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
